@@ -19,11 +19,12 @@ Gathering information about temperature trends for W. Avy before opening this su
 
 ## Summary 
 
+### December Temperatures Bar Graph
 ![Dec_bg](https://user-images.githubusercontent.com/88383836/139559591-1b3bbaf5-c520-475d-b6d1-611a26a5153e.PNG)
-December Temperatures Bar Graph 
 
+### June Temperatures Bar Graph
 ![June_bg](https://user-images.githubusercontent.com/88383836/139559592-00a50c38-444c-4a90-a0a6-c4a50e132cf0.PNG)
-June Temperatures Bar Graph
+
 
 
 The graphs above depict the frequency of each temperature’s occurrence in the dataset. The June bar graph shows a consistent number of temperatures of 75 degrees and higher. This will create steady business for the surf and ice cream shop. On the other hand, the bar graph for December shows an equal number of occurrences for temperatures above and below 73 degrees. This will cause inconsistent business and may have a slight impact on ice cream sales. 
